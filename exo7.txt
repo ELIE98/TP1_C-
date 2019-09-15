@@ -1,0 +1,13 @@
+var  tentative = 5;
+            while (tentative < 5)
+            {  
+               
+               var liste = new List<int>();
+               System.Console.WriteLine("entrer un nombre "); 
+               var nbre = Convert.ToInt32(Console.ReadLine());
+               liste.Add(nbre);
+               if (liste.Contains(nbre))
+               {
+                  System.Console.WriteLine("erreur recommencer ! ");
+                  continue; 
+               }

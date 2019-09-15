@@ -1,0 +1,16 @@
+ void exo1()
+            {
+                    Console.WriteLine("Entrer un nombre entre 1 et 10");
+                    var nb= Console.ReadLine();
+                    if (Convert.ToInt32(nb)  >= 1 &&  Convert.ToInt32(nb)  <= 10)
+                    {
+                    Console.WriteLine("Valide"); 
+                    }else
+                    {
+                        Console.WriteLine("invalide");
+                    }
+            }
+            Console.WriteLine("********************************************");
+                     exo1();
+
+            Console.WriteLine("********************************************");

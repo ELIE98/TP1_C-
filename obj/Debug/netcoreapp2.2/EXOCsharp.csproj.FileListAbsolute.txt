@@ -1,0 +1,11 @@
+C:\Users\ELIE\Desktop\EXOCsharp\bin\Debug\netcoreapp2.2\EXOCsharp.deps.json
+C:\Users\ELIE\Desktop\EXOCsharp\bin\Debug\netcoreapp2.2\EXOCsharp.runtimeconfig.json
+C:\Users\ELIE\Desktop\EXOCsharp\bin\Debug\netcoreapp2.2\EXOCsharp.runtimeconfig.dev.json
+C:\Users\ELIE\Desktop\EXOCsharp\bin\Debug\netcoreapp2.2\EXOCsharp.dll
+C:\Users\ELIE\Desktop\EXOCsharp\bin\Debug\netcoreapp2.2\EXOCsharp.pdb
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.csprojAssemblyReference.cache
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.csproj.CoreCompileInputs.cache
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.AssemblyInfoInputs.cache
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.AssemblyInfo.cs
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.dll
+C:\Users\ELIE\Desktop\EXOCsharp\obj\Debug\netcoreapp2.2\EXOCsharp.pdb

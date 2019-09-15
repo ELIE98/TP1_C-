@@ -1,0 +1,13 @@
+ void Max()
+           {
+             Console.WriteLine("saisir nombre 1");
+             var nb1= Convert.ToInt32(Console.ReadLine());
+             Console.WriteLine("saisir nombre 2");
+             var nb2=Convert.ToInt32(Console.ReadLine());
+             if( nb1 > nb2)
+                Console.WriteLine("le maximum est : " + nb1);
+             else
+                 Console.WriteLine("le maximum est : " + nb2);
+           }
+
+           Max();

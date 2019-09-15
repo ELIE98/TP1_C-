@@ -1,0 +1,14 @@
+static void Main(string[] args)
+        {
+          string inverse( string text)
+          {
+              
+               char[] chars = text.ToCharArray();
+               Array.Reverse(chars);
+               return new String(chars);
+          }
+           System.Console.WriteLine("entrer un nom "); 
+            var nb = Console.ReadLine();
+           var  nom = inverse(nb);
+            System.Console.WriteLine(nom);
+        }

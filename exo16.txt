@@ -1,0 +1,22 @@
+ void Count_voyelle(string mot)
+            {
+                int count =0;
+                Char[] voyelles = new Char[]{'a','e','i','o','u','y'};
+
+                foreach (var v in mot)
+                {
+                   
+                    
+                        if (voyelles.Contains(v))
+                        {
+                           count++ ;
+                        }
+                    
+                    
+                }
+                System.Console.WriteLine("nombre de voyelle = " + count);
+                
+            }
+            System.Console.WriteLine("entrer un mot");
+            var input = Console.ReadLine();
+            Count_voyelle(input);

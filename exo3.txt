@@ -1,0 +1,13 @@
+void Image()
+           {
+             Console.WriteLine("Donner la longueur de l image !");
+             var longueur = Convert.ToInt32(Console.ReadLine());
+             Console.WriteLine("Donner la largeur de l image !");
+             var largeur =Convert.ToInt32(Console.ReadLine());
+             if( longueur > largeur)
+                Console.WriteLine(" L image est en mode portrait");
+             else
+                 Console.WriteLine(" l image est en mode paysage");
+           }
+
+           Image();
